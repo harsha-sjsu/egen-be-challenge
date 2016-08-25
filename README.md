@@ -31,6 +31,8 @@ Assumptions made for this project
 To Run the application:
 -------------------------
 
+We need Download and install Lombok jar(lombok-1.16.2.jar) and choose your eclipse version by selecting eclipse.ini file during installation of the lombok jar. In order to include these changes, restart your eclipse and check in the About Eclipse screen at the bottom if lombok is installed correctly.
+
 Right click on the UserService.java and select run as Java Application.
 
 
